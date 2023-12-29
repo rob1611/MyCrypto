@@ -1,0 +1,4 @@
+language = Objective-C
+modules = MyStaticLib
+compilerOpts = -framework MyStaticLib
+linkerOpts = -framework MyStaticLib
